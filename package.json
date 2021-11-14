@@ -1,0 +1,23 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "This is based on the youtube tutorial [here](https://youtu.be/2t1yOjTn7hk)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twoodby/electron_apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twoodby/electron_apps/issues"
+  },
+  "homepage": "https://github.com/twoodby/electron_apps#readme",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
